@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+        "logo": "images/Logo-Polines-96dpi-200px.png",
+        "major": "Diploma in Electronics Engineering",
+        "year": "2022 - 2025",
+        "description": "GPA 3.20 out of 4.00; Currently pursuing a degree in Electronic Engineering with a strong interest in industrial automation, embedded systems, and IoT applications. Actively engaged in both academic and practical projects to deepen technical expertise."
+    },
+    {
+        "university": "SMA Negeri 8 Semarang",
+        "logo": "images/logo-SMAN_8_Semarang.jpg",
+        "major": "Mathematics and Natural Science",
+        "year": "2019 - 2022",
+        "description": "Graduated with strong academic performance and actively participated in extracurricular activities. Selected to represent the school in city- and province-level futsal competitions."
+    }
+]

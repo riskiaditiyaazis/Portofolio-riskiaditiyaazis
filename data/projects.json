@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Project Educational Maze Solving Robot with 5 IR Sensors and Color Detection - PT. Racer Robotic Indonesia",
+        "year": "2024",
+        "role": "Hardware & Software Developer",
+        "description": "Developed an autonomous robot capable of solving a maze using 5 infrared (IR) sensors for line detection and a color sensor for identifying visual markers. The robot was programmed using block-based coding through Pictoblox and powered by an ESP32 microcontroller. This project was designed as an educational tool to help junior and senior high school students learn the basics of robotics in an interactive and engaging way.",
+        "image": "images/WhatsApp Image 2025-06-16 at 09.16.11.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Smart Home Security Project - Smart Doorbell Prototype using ESP32-CAM and Telegram",
+        "year": "2023",
+        "role": "Hardware & Software Developer",
+        "description": "Designed and developed a smart doorbell prototype using the ESP32-CAM module that automatically captures an image whenever someone presses the doorbell button. The captured image is then sent in real-time to the user’s Telegram account via a bot, allowing homeowners to monitor visitors remotely.",
+        "image": "images/CCCC.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Secret Story Trans7 Coverage at Kampong Robot - The History of Robotics and Its Benefits",
+        "year": "2024",
+        "partner": "Team Trans 7",
+        "role": "person in charge of activities",
+        "description": "Participated in a media coverage by Secret Story Trans7 at Kampong Robot, highlighting the theme “The History of Robotics and Its Benefits”. The segment showcased various educational robotic innovations and the role of Kampong Robot in inspiring youth to engage with technology and automation from an early age.",
+        "image": "images/WhatsApp Image 2025-06-16 at 10.36.31.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Game Development Workshop using Scratch Grade 4–6 Students, SD Muhammadiyah 24 Jakarta",
+        "year": "2024",
+        "role": "Trainer",
+        "description": "Conducted an interactive learning session for 4th to 6th grade students at SD Muhammadiyah 24 Jakarta, focused on creating simple games using the Scratch application. This program aimed to introduce basic programming concepts and computational thinking through a fun and engaging visual coding platform suitable for children.",
+        "image": "images/Cuplikan layar 2025-06-16 105346.png",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Kontes Robot Nusantara 2024 (KRON 2024) National & ASEAN Robotics Competition",
+        "year": "2024",
+        "partner": "Indonesia Youth Robot Assosiasion",
+        "role": "Committee",
+        "description": "Participated in the Kontes Robot Nusantara (KRON) 2024, an annual robotics competition involving over 1,000 participants from elementary to high school levels across Indonesia. The event also welcomed participants from two ASEAN countries, namely Malaysia and Thailand, making it a regional platform for collaboration and innovation in robotics education.",
+        "image": "images/IMG_4173-143.jpg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Final Project: Design and Development of a Connection Error Detector for Wiring Harness at PT Casuarina Harnessindo",
+        "year": "2025",
+        "role": "Hardware & Software Developer",
+        "description": "Conducted a final project focused on designing and developing a system to detect connection errors (such as miswiring, open lines, or shorts) in wiring harnesses at PT Casuarina Harnessindo. The system was created to enhance testing efficiency, improve accuracy, and minimize human error during vehicle cable inspections.",
+        "image": "images/CCCC.jpg",
+        "link": "https://example.com/solar-water"
+    }
+]

@@ -1,0 +1,23 @@
+[
+	{
+        "company": "PT. Racer Robotic Indonesia",
+		"logo":"images/download.jpeg",
+        "position": "Research And Development ( R & D )",
+        "year": "2024 - 2025",
+        "description": "Internship at PT Racer Robotic Indonesia - During my internship at PT Racer Robotic Indonesia, I was actively involved in the application of robotic systems and microcontroller-based technologies. My responsibilities included designing, programming, and conducting research on robotics solutions. I also served as a trainer, teaching robotics to students from elementary to high school levels — covering both basic and intermediate modules. This experience not only strengthened my technical capabilities but also enhanced my communication, leadership, and teaching skills through real-world educational outreach."
+    },
+    {
+        "company": "Futsal Department of Electronics Engineering And Politeknik Negeri Semarang",
+		"logo":"images/b3f3a866bc4a11b9195ec15dd2f843ef_200x200.jpeg",
+        "position": "Players Club",
+        "year": "2022 - 2023",
+        "description": "Futsal Club Players – Politeknik Negeri Semarang During my time with the futsal club, I actively participated in several university-level competitions. Through this experience, I developed a strong foundation in futsal, including physical endurance, strength, and agility. In addition to technical skills, I also learned the value of teamwork, discipline, and strategic thinking in high-pressure situations. Being part of this competitive environment helped me grow both physically and mentally, and taught me how to stay focused and resilient under pressure."
+    },
+	{
+        "company": "Youth Organization Tambakaji",
+		"logo":"images/pemkot.png",
+        "position": "Staff - Treasurer ",
+        "year": "2020 - 2025",
+        "description": "Karang Taruna As an active member of Karang Taruna, I participated in various community-based activities such as social service, youth empowerment programs, event organizing, and neighborhood development. This experience allowed me to build essential soft skills such as communication, leadership, teamwork, and time management. I also learned how to work effectively with people from different backgrounds and contribute to the well-being of the local community. Being part of this organization shaped my sense of social responsibility and helped me grow both personally and professionally."
+    }
+]

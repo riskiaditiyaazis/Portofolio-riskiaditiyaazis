@@ -1,0 +1,44 @@
+{
+    "name": "Riski Aditiya Azis - Electronic Engineering",
+    "description": "A dedicated and continuously developing student of Semarang State Polytechnic majoring in Electronic Engineering with a strong passion for technology and system design. Having the same interest in hardware and software development, actively exploring various fields to expand knowledge and skills. Experienced in working independently and collaboratively, with high enthusiasm to learn new things and solve challenges creatively. Academic and industrial experiences have provided a strong foundation in understanding real-world technology applications. Committed to lifelong learning, adaptability, likes to face new things and make meaningful contributions in every opportunity.",
+    "profileImage": "images/Beg Biru.jpg",
+    "email": "riskiazis31@gmail.com",
+    "phone": "+62 (889) 0542-2648",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/feed/"
+        },
+        {
+            "platform": "Github",
+            "url": "https://github.com/rizalhalim9"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/riskyadityaaz/"
+        },
+        {
+            "platform": "Tiktok",
+            "url": "https:www.tiktok.com/@happyboyss__"
+        }
+
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+    {"name": "Maintenance Engineering", "icon": "fas fa-tools", "level": 75},
+    {"name": "PCB Design", "icon": "fas fa-microchip", "level": 75},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+    {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 60},
+    {"name": "Web Programming", "icon": "fab fa-js", "level": 50},
+	{"name": "Microsoft Office", "icon": "fas fa-microsoft office", "level": 80},
+	{"name": "Fotographer", "icon": "fas fa-camera", "level": 80},
+    {"name": "Videographer", "icon": "fas fa-video", "level": 80},
+    {"name": "Editing Video & Foto", "icon": "fas fa-computer", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 70}
+    ]
+}
